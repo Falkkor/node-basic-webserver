@@ -1,0 +1,15 @@
+{
+  "name": "node_basic_webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "node": "^14.10.1"
+  }
+}
